@@ -1,13 +1,11 @@
 {
 	"com.k_int.kbplus.SitePage" : {
-        "properties" : {
-			"alias" : { 
+			"alias" : {
 				"type" : "string",
 				"analyzer": "snowball"},
 			"action" : { 
 				"type" : "string"},
 			"controller" : { 
 				"type" : "string"}
-		}
 	}
 }
